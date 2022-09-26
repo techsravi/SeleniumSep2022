@@ -14,6 +14,7 @@ public class HandleWebTables {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
+		System.out.println("Tech Sravi");
 		
 		
 
